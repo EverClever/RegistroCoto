@@ -1,0 +1,12 @@
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.exe.config
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\x64\liblept172.dll
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\x64\libtesseract304.dll
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\x86\liblept172.dll
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\x86\libtesseract304.dll
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.exe
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.pdb
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\Tesseract.dll
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debug\Tesseract.xml
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csprojResolveAssemblyReference.cache
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.exe
+c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.pdb
