@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OCR_Demo_2", "OCR_Demo_2\OCR_Demo_2.vcxproj", "{D3251841-CD59-4A02-BDE1-D651C28F5991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3251841-CD59-4A02-BDE1-D651C28F5991}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3251841-CD59-4A02-BDE1-D651C28F5991}.Debug|Win32.Build.0 = Debug|Win32
+		{D3251841-CD59-4A02-BDE1-D651C28F5991}.Release|Win32.ActiveCfg = Release|Win32
+		{D3251841-CD59-4A02-BDE1-D651C28F5991}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

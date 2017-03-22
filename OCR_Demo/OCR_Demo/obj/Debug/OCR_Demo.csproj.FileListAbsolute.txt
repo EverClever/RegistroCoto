@@ -10,3 +10,26 @@ c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\bin\Debu
 c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csprojResolveAssemblyReference.cache
 c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.exe
 c:\users\poucel\documents\visual studio 2012\Projects\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.pdb
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.exe.config
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.exe
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.pdb
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\x64\liblept172.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\x64\libtesseract304.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\x86\liblept172.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\x86\libtesseract304.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.exe
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.pdb
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\Tesseract.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\Tesseract.xml
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csprojResolveAssemblyReference.cache
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.Interfaz.resources
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csproj.GenerateResource.Cache
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\AForge.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\AForge.Video.dll
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\AForge.xml
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\AForge.Video.xml
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\Interfaz.resx
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\Interfaz.cs
+C:\Users\poucel\Documents\GitHubEscuela\RegistroCoto\OCR_Demo\OCR_Demo\bin\Debug\Interfaz.Designer.cs

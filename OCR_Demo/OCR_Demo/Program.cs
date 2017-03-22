@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Tesseract;
+using MySql;
 
 namespace OCR_Demo
 {
@@ -11,6 +12,21 @@ namespace OCR_Demo
     {
         static void Main(string[] args)
         {
+
+            /*string line = "<https://msdn.microsoft.com/en-us/library/fk49wtc1(v=vs.110).aspx>";
+            string result = line.Replace("<https://msdn.microsoft.com/en-us/library/fk49wtc1(v=vs.110).aspx>", "HoLA");
+
+            Console.WriteLine("String original: {0}", line);
+            Console.WriteLine("String nuevo: {0}", result);*/
+
+           /*Interfaz MainInterfaz=new Interfaz();
+           MainInterfaz.Show();*/
+           // MySQLconn mysqlconn = new MySQLconn();
+            //mysqlconn.SP();
+            Console.WriteLine();
+
+            
+
             var test = @"C:\Users\poucel\Documents\ImagesTest\test3.jpg";
 
             try
